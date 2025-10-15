@@ -1,1 +1,1 @@
-![alt text](assets/brats2025_logo.png "Title")
+![alt text](brats2025_logo.png "Title")
