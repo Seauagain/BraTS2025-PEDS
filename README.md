@@ -1,1 +1,1 @@
-# BraTS2025-PEDS
+![alt text](assets/brats2025_logo.png "Title")
