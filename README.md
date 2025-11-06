@@ -3,7 +3,7 @@
 # Frequency-Aware Ensemble Learning for BraTS 2025 Pediatric Brain Tumor Segmentation
 
 
-🚩**News** (2025.11) The source code of our solution have been released.
+🚩**News** (2025.11) The source code of our solution has been released.
 
 🚩**News** (2025.10) Our solution achieves **🥇rank 1st** in the
 BraTS 2025 Pediatric Brain Tumor Segmentation Challenge.
