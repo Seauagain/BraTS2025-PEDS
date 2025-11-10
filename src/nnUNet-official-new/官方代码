@@ -1,0 +1,9 @@
+
+# 修改位置，增加了一个类nnUNetTrainer_200epochs(nnUNetTrainer):
+# 匹配PED这套代码
+/home/yiyuxiao/data/TempTasks/AI4Tumor/code/nnUNet-offical-new/nnunetv2/training/nnUNetTrainer/variants/training_length/nnUNetTrainer_Xepochs.py
+
+
+# 官网的nnUet并没有直接定义网络结构的文件，而是从外部导入：dynamic_network_architectures
+# dynamic_network_architectures 这个库也是该团队在维护
+
