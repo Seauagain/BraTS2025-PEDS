@@ -7,10 +7,12 @@
 </div>
 
 
- We propose
-an ensemble approach integrating nnU-Net, Swin UNETR, and HFFNet for the BraTS-PED 2025 challenge. Our method incorporates three
-key extensions: adjustable initialization scales for optimal nnU-Net complexity control, transfer learning from BraTS 2021 pre-trained models
-to enhance Swin UNETR’s generalization on pediatric dataset, and frequency domain decomposition for HFF-Net to separate low-frequency
+We propose an ensemble approach integrating nnU-Net, Swin UNETR, and HFFNet for the BraTS-PED 2025 challenge. Our method incorporates three
+key extensions: 
+- Adjustable initialization scales for optimal nnU-Net complexity control.
+- Transfer learning from BraTS 2021 pre-trained model
+to enhance Swin UNETR’s generalization on pediatric dataset.
+- Frequency domain decomposition for HFF-Net to separate low-frequency
 tissue contours from high-frequency texture details.
 
 ## News
